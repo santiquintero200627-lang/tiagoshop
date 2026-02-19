@@ -74,3 +74,4 @@ C:\Users\santi\OneDrive\Escritorio\3170247\Johan\SexShop ultimo bueno\sexshop2\a
 C:\Users\santi\OneDrive\Escritorio\3170247\Johan\SexShop ultimo bueno\sexshop2\articulos\SexShop.Infrastructure\obj\Debug\net8.0\SexShop.Infrastructure.pdb
 C:\Users\santi\OneDrive\Escritorio\3170247\Johan\SexShop ultimo bueno\sexshop2\articulos\SexShop.Infrastructure\obj\Debug\net8.0\SexShop.Infrastructure.genruntimeconfig.cache
 C:\Users\santi\OneDrive\Escritorio\3170247\Johan\SexShop ultimo bueno\sexshop2\articulos\SexShop.Infrastructure\obj\Debug\net8.0\ref\SexShop.Infrastructure.dll
+C:\Users\santi\OneDrive\Escritorio\3170247\Johan\SexShop ultimo bueno\sexshop2\articulos\SexShop.Infrastructure\obj\Debug\net8.0\SexShop.Infrastructure.sourcelink.json

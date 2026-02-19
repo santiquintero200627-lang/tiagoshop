@@ -12,6 +12,8 @@ services:
         value: "true"
       - key: ConnectionStrings__SqliteConnection
         value: Data Source=/app/data/SexShop.db
+      - key: DOTNET_USE_POLLING_FILE_WATCHER
+        value: "true"
     disk:
       name: sexshop-data
       mountPath: /app/data
@@ -28,3 +30,5 @@ services:
         value: http://+:8080
       - key: ApiSettings__BaseUrl
         value: https://sexshop-api.onrender.com/api/ # Render will provide this URL once deployed
+      - key: DOTNET_USE_POLLING_FILE_WATCHER
+        value: "true"

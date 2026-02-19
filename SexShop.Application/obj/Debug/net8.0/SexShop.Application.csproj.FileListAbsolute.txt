@@ -58,3 +58,4 @@ C:\Users\santi\OneDrive\Escritorio\3170247\Johan\SexShop ultimo bueno\sexshop2\a
 C:\Users\santi\OneDrive\Escritorio\3170247\Johan\SexShop ultimo bueno\sexshop2\articulos\SexShop.Application\obj\Debug\net8.0\refint\SexShop.Application.dll
 C:\Users\santi\OneDrive\Escritorio\3170247\Johan\SexShop ultimo bueno\sexshop2\articulos\SexShop.Application\obj\Debug\net8.0\SexShop.Application.pdb
 C:\Users\santi\OneDrive\Escritorio\3170247\Johan\SexShop ultimo bueno\sexshop2\articulos\SexShop.Application\obj\Debug\net8.0\ref\SexShop.Application.dll
+C:\Users\santi\OneDrive\Escritorio\3170247\Johan\SexShop ultimo bueno\sexshop2\articulos\SexShop.Application\obj\Debug\net8.0\SexShop.Application.sourcelink.json
