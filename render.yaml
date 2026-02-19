@@ -1,0 +1,30 @@
+services:
+  # SexShop API
+  - type: web
+    name: sexshop-api
+    runtime: docker
+    dockerContext: .
+    dockerfilePath: SexShop.API/Dockerfile
+    envVars:
+      - key: ASPNETCORE_URLS
+        value: http://+:8080
+      - key: UseSqlite
+        value: "true"
+      - key: ConnectionStrings__SqliteConnection
+        value: Data Source=/app/data/SexShop.db
+    disk:
+      name: sexshop-data
+      mountPath: /app/data
+      sizeGB: 1
+
+  # SexShop Web
+  - type: web
+    name: sexshop-web
+    runtime: docker
+    dockerContext: .
+    dockerfilePath: SexShop.Web/Dockerfile
+    envVars:
+      - key: ASPNETCORE_URLS
+        value: http://+:8080
+      - key: ApiSettings__BaseUrl
+        value: https://sexshop-api.onrender.com/api/ # Render will provide this URL once deployed
